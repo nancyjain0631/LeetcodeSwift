@@ -1,3 +1,5 @@
+// Leetcode link: https://leetcode.com/problems/palindrome-number/
+
 class Solution {
     func isPalindrome(_ x: Int) -> Bool {
 //         Idea is to reverse the number then compare x with reveredNum
